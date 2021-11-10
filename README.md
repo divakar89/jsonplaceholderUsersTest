@@ -9,6 +9,7 @@ Dependencies:
 Steps to execute USERS tests
 
 Extract the jsonplaceholderUsersTest.zip
+
 Import project in editor (Eclipse/IntelliJ)
 1) Reach out to maven pom xml file
 2) Update maven dependencies. (all included in pom xml) 
