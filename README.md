@@ -7,6 +7,7 @@ Dependencies:
 3. Maven- for build and execution
 
 Steps to execute USERS tests
+
 Extract the jsonplaceholderUsersTest.zip
 Import project in editor (Eclipse/IntelliJ)
 1) Reach out to maven pom xml file
